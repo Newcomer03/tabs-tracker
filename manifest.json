@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "2.1",
+    "name": "Tabs tracker",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "tab-icon.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
