@@ -1,5 +1,5 @@
 # tabs-tracker
-##Made a tab tracking google browser extension.
+## Made a tab tracking google browser extension.
 
 Currently, it can:
 * Save an entered link
